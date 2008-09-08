@@ -1,3 +1,4 @@
+#labels Featured
 == Examples of douban-python ==
 
 1，请先申请[http://www.douban.com/service/apikey/ API_KEY]，得到API_KEY和私钥。
