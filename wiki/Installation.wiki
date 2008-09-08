@@ -1,4 +1,4 @@
-
+#labels Featured
 == douban-python 安装 ==
 1, 使用setuptools (推荐)
 
