@@ -1,11 +1,5 @@
 == douban-python 安装 ==
-1, 使用setuptools (推荐)
-
-a). 安装setuptools
-
-b). easy_install douban-python 
-
-2, 使用源码包安装
+使用源码包安装
 
 a). 安装gdata.py。下载gdata.py压缩包，然后按照如下方法安装
 {{{  
